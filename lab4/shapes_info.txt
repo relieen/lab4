@@ -1,0 +1,9 @@
+Inscribed Sphere and Cube:
+Cube:
+  Side Length: 4
+  Volume: 64.00
+  Surface Area: 96.00
+Sphere:
+  Radius: 2.00
+  Volume: 33.51
+  Surface Area: 50.27
